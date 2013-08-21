@@ -28,4 +28,4 @@ Marta Donnozo (Facultad de Ciencias Exactas de La Plata) <br />
 Juan Ramirez (Colaborador secundario) <br />
 Facundo Quiroz (Colaborador secundario)<br />
 
-El programa de astrológico será difundido por [Unitarot]: http://unitarot.com/ una vez que haya finalizado la creación del mismo.
+El programa de astrológico será difundido por <a href="http://unitarot.com/">Unitarot</a> una vez que haya finalizado la creación del mismo.
