@@ -23,9 +23,9 @@ Apróximadamente de 18 a 23 semanas según los cálculos que hemos realizado.
 Autores
 ==========
 
-Carolina Perez
-Marta Donnozo
-Juan Ramirez
-Facundo Quiroz
+Carolina Perez <br />
+Marta Donnozo <br />
+Juan Ramirez <br />
+Facundo Quiroz <br />
 
 El programa de astrológico será difundido por Unitarot una vez que haya finalizado la creación del mismo.
